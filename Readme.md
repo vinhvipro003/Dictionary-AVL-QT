@@ -1,0 +1,1 @@
+Dictionary use AVL algorithm and QT build UI.
